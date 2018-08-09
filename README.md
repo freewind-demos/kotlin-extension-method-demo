@@ -1,4 +1,3 @@
-Kotlin Hello World Demo
-=======================
+Kotlin Extension Method Demo
+============================
 
-Hello world from kotlin. Open it in IDE and run `Hello.kt`

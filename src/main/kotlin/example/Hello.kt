@@ -1,7 +1,9 @@
 package example
 
 fun main(args: Array<String>) {
-    println(hello("Kotlin"))
+    "Kotlin".hello()
 }
 
-fun hello(name: String): String = "Hello, $name!"
+fun String.hello() {
+    println("Hello, $this!")
+}
